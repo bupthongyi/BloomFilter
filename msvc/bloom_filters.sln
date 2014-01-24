@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generate_test_record", "..\src\Generate_test_record\Generate_test_record.vcxproj", "{D8C92FF8-1BA4-436F-9376-E3C9AD7F8F43}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "generate_data_base", "..\src\generate_data_base\generate_data_base.vcxproj", "{9A9E0D46-D98B-4AB4-B4B9-DCF2A9A44A18}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "offline_cloud", "..\src\offline_cloud\offline_cloud.vcxproj", "{4F59CC33-920A-44AF-B0A9-1C8271141DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C92FF8-1BA4-436F-9376-E3C9AD7F8F43}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8C92FF8-1BA4-436F-9376-E3C9AD7F8F43}.Debug|Win32.Build.0 = Debug|Win32
+		{D8C92FF8-1BA4-436F-9376-E3C9AD7F8F43}.Release|Win32.ActiveCfg = Release|Win32
+		{D8C92FF8-1BA4-436F-9376-E3C9AD7F8F43}.Release|Win32.Build.0 = Release|Win32
+		{9A9E0D46-D98B-4AB4-B4B9-DCF2A9A44A18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A9E0D46-D98B-4AB4-B4B9-DCF2A9A44A18}.Debug|Win32.Build.0 = Debug|Win32
+		{9A9E0D46-D98B-4AB4-B4B9-DCF2A9A44A18}.Release|Win32.ActiveCfg = Release|Win32
+		{9A9E0D46-D98B-4AB4-B4B9-DCF2A9A44A18}.Release|Win32.Build.0 = Release|Win32
+		{4F59CC33-920A-44AF-B0A9-1C8271141DD3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F59CC33-920A-44AF-B0A9-1C8271141DD3}.Debug|Win32.Build.0 = Debug|Win32
+		{4F59CC33-920A-44AF-B0A9-1C8271141DD3}.Release|Win32.ActiveCfg = Release|Win32
+		{4F59CC33-920A-44AF-B0A9-1C8271141DD3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
